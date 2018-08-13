@@ -1,5 +1,4 @@
 äpple
-orange
-durian
-mango
-äpplesin
+bär 
+rabutan
+banana
